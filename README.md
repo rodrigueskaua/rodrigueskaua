@@ -22,10 +22,4 @@ Here are some ideas to get you started:
 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigueskaua&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="KauaF-BR-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="KauaF-BR-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="KauaF-BR-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+ 
