@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-📚 Atualmente estou estudando HTML, CSS, Javascript, PHP e Java.
 
 <div>
   <a href="https://github.com/rodrigueskaua">
