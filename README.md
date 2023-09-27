@@ -3,7 +3,7 @@
 
 - 📚 I am currently studying Javascript, ReactJS, Laravel and PHP.
 
-- 🔭 I’m currently working on [NoteSync](https://notesync.kauarodrigues.com.br)
+- 🔭 I’m currently working on [HubSys](https://hubsys.io)
 
 - 📫 How to reach me **kauarodrigues.fn@gmail.com**
 
