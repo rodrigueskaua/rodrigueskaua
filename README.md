@@ -1,21 +1,55 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
- 
+<img src="https://raw.githubusercontent.com/rodrigueskaua/rodrigueskaua/master/github-header-image.png">
 
-- 📚 I am currently studying Javascript, ReactJS, Laravel and PHP.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 I’m currently working on [HubSys](https://hubsys.io)
+  - 🔍 &nbsp; Exploring new technologies and developing software solutions.<br>
+  - 🎓 &nbsp; Studying Information Systems.<br>
+  - 💼 &nbsp; Working as a Backend Developer.<br>
+  - 📈 &nbsp; Interested in Machine Learning.<br>
+  - 💻 &nbsp; Passionate about back-end development and always seeking to learn more.
 
-- 📫 How to reach me **kauarodrigues.fn@gmail.com**
+<h3> 🛠 &nbsp;Technologies and Tools:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 💻 &nbsp;
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=FF2D20)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery&logoColor=563D7C)
+  ![Ajax](https://img.shields.io/badge/-Ajax-333333?style=flat&logo=ajax&logoColor=563D7C)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 
-<br>
-<div align="center">
-  <a href="https://github.com/rodrigueskaua">
-  <img height="200px" src="https://streak-stats.demolab.com?user=rodrigueskaua&theme=tokyonight"/> <br>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=rodrigueskaua&show_icons=true&theme=tokyonight"/>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigueskaua&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
- 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
+<br/>
+
+<a href="https://github.com/rodrigueskaua">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigueskaua&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigueskaua&theme=dark&layout=compact" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=rodrigueskaua&theme=dark"/> <br>
+</a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+ <a href="mailto:kauarodrigues.fn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kauarodrigues.fn@gmail.com-blue?style=flat-square&logo=gmail"></a>
+ <a href="https://www.linkedin.com/in/kau%C3%A3-rodrigues-7a0980213/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kauã%20Rodriguesblue?style=flat-square&logo=linkedin"></a>
+</p>
