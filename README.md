@@ -36,20 +36,21 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-
 <br/>
 
-<a href="https://github.com/rodrigueskaua">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigueskaua&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigueskaua&theme=dark&layout=compact" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=rodrigueskaua&theme=dark"/> <br>
-</a>
+<div align="center">
+  <a href="https://github.com/rodrigueskaua">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigueskaua&theme=dark&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigueskaua&theme=dark&layout=compact" />
+    <img height="180em" src="https://streak-stats.demolab.com?user=rodrigueskaua&theme=dark" />
+  </a>
+</div>
 
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p align="start">
  <a href="mailto:kauarodrigues.fn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kauarodrigues.fn@gmail.com-blue?style=flat-square&logo=gmail"></a>
- <a href="https://www.linkedin.com/in/kau%C3%A3-rodrigues-7a0980213/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kauã%20Rodriguesblue?style=flat-square&logo=linkedin"></a>
+ <a href="https://www.linkedin.com/in/kau%C3%A3-rodrigues-7a0980213/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kauã%20Rodrigues-blue?style=flat-square&logo=linkedin"></a>
 </p>
