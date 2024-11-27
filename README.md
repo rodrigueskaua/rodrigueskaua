@@ -4,7 +4,7 @@
 
 - 🔍 &nbsp; Exploring new technologies and developing software solutions.<br>
 - 🎓 &nbsp; Studying Information Systems.<br>
-- 💼 &nbsp; Working as a Full Stack Developer.<br>
+- 💼 &nbsp; Working as a Full Stack Developer at [Prefiro Delivery](https://prefirodelivery.com/).<br>
 - 📈 &nbsp; Interested in Machine Learning.<br>
 - 💻 &nbsp; Passionate about back-end development and always seeking to learn more.
 
@@ -19,6 +19,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+  ![Agundular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 
 - **🌐 Front-End and UI:**  
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
