@@ -4,7 +4,7 @@
 
 - 🔍 &nbsp; Exploring new technologies and developing software solutions.<br>
 - 🎓 &nbsp; Studying Information Systems.<br>
-- 💼 &nbsp; Working as a Full Stack Developer at [Prefiro Delivery](https://prefirodelivery.com/).<br>
+- 💼 &nbsp; Working as a Full Stack Developer.<br>
 - 📈 &nbsp; Interested in Machine Learning.<br>
 - 💻 &nbsp; Passionate about back-end development and always seeking to learn more.
 
