@@ -49,8 +49,8 @@ Aplicação web de anotações com formatação rica, busca e login via Google.
 ---
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-pink.vercel.app/api?username=rodrigueskaua&show_icons=true&theme=dark&hide_border=true&count_private=true" />
   <img height="165em" src="https://github-readme-stats-sigma-pink.vercel.app/api/top-langs/?username=rodrigueskaua&theme=dark&layout=compact&hide_border=true" />
+  <img height="165em" src="https://streak-stats.demolab.com?user=rodrigueskaua&theme=dark&hide_border=true" />
 </div>
 
 ---
