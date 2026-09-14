@@ -1,60 +1,63 @@
-<img src="https://raw.githubusercontent.com/rodrigueskaua/rodrigueskaua/master/github-header-image.png" alt="Kauã Rodrigues Banner">
+### Olá, eu sou o Kauã 👋
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🎓 &nbsp; System Analisys and Development Systems at Infnet.br>
-- 💼 &nbsp; Working as a Full Stack Developer.<br>
-- 📈 &nbsp; Interested in Machine Learning.<br>
+Desenvolvedor Full Stack, com foco em PHP, Laravel e JavaScript. Atualmente me aprofundando em Python, automação, Machine Learning e IA aplicada. Formado em Técnico em Desenvolvimento de Sistemas pelo SENAI e cursando ADS no [Instituto Infnet](https://www.infnet.edu.br).
 
 ---
 
-<h3> 🚀 &nbsp;Main Development Environment</h3>
+### Stack
 
-- **🐧 O.S:**  
-  ![Fedora](https://img.shields.io/badge/-Fedora-333333?style=flat&logo=fedora&logoColor=51A2DA)
+**Linguagens**
+<a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge" /></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" /></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" /></a>
 
-- **🛠️ Main Tools:**  
-  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+**Frameworks & Runtimes**
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" /></a>
+<a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Badge" /></a>
+<a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue Badge" /></a>
+<a href="https://nuxt.com/" target="_blank"><img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt Badge" /></a>
+<a href="https://www.electronjs.org/" target="_blank"><img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white" alt="Electron Badge" /></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge" /></a>
 
-- **⚙️ Main Development Stack:**  
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=FF2D20)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+**Infra & Ferramentas**
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" /></a>
+<a href="https://getfedora.org/" target="_blank"><img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Badge" /></a>
 
 ---
 
-<h3> 🌟 &nbsp;Project Portfolio </h3>
+### Projetos em destaque
 
-Here are a few selected projects:
+**[LocalPlay](https://github.com/rodrigueskaua/localplay-desktop)**
+Player desktop para cursos em vídeo, 100% offline. App para Mac empacotado com Electron, backend em Fastify e frontend em Nuxt.
+`Electron` `Nuxt` `Vue` `Fastify` `SQLite`
 
-- [NoteSync](https://github.com/rodrigueskaua/NoteSync): A web application for creating and managing notes with rich text formatting, note search, Google login, and light/dark themes.  
-  **Technologies:** Laravel, PHP, MySQL, Google OAuth, HTML, CSS, JavaScript.
+**[Alpes One API](https://github.com/rodrigueskaua/alpes-api)**
+API desenvolvida como desafio técnico, com foco em boas práticas de backend, infraestrutura em nuvem e automação.
+`PHP` `Cloud` `CI/CD`
 
-- [Background Remover](https://github.com/rodrigueskaua/Background-Remover): A tool for removing image backgrounds, available through a web interface or command-line script.  
-  **Technologies:** Flask, Python, HTML, CSS, JavaScript.
+**[WizardDocs](https://github.com/rodrigueskaua/wizarddocs)**
+Chat interativo sobre arquivos PDF usando RAG (Retrieval-Augmented Generation) e busca semântica com Chroma.
+`Python` `RAG` `Chroma`
 
-- [AgendaSync](https://github.com/rodrigueskaua/AgendaSync): A web application for managing contacts and schedules with Google integration, dark mode, and secure access control.  
-  **Technologies:** Laravel, Vue.js, Inertia.js, MySQL, Google OAuth, HTML, CSS, JavaScript.
+**[NoteSync](https://github.com/rodrigueskaua/NoteSync)**
+Aplicação web de anotações com formatação rica, busca e login via Google.
+`Laravel` `MySQL` `OAuth`
+
 ---
 
 <div align="center">
-  <a href="https://github.com/rodrigueskaua">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigueskaua&theme=dark&show_icons=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigueskaua&theme=dark&layout=compact" />
-    <img height="180em" src="https://streak-stats.demolab.com?user=rodrigueskaua&theme=dark" />
-  </a>
+  <img height="165em" src="https://github-readme-stats-sigma-pink.vercel.app/api?username=rodrigueskaua&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats-sigma-pink.vercel.app/api/top-langs/?username=rodrigueskaua&theme=dark&layout=compact&hide_border=true" />
 </div>
 
 ---
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+### Contato
 
-<p align="start">
- <a href="mailto:kauarodrigues.fn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kauarodrigues.fn@gmail.com-blue?style=flat-square&logo=gmail"></a>
- <a href="https://www.linkedin.com/in/kau%C3%A3-rodrigues-7a0980213/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kauã%20Rodrigues-blue?style=flat-square&logo=linkedin"></a>
+<p>
+  <a href="mailto:kauarodrigues.fn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kauarodrigues.fn@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/kau%C3%A3-rodrigues-7a0980213/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kau%C3%A3%20Rodrigues-blue?style=flat-square&logo=linkedin"></a>
 </p>
