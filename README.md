@@ -34,10 +34,6 @@ Desenvolvedor Full Stack, com foco em PHP, Laravel e JavaScript. Atualmente me a
 Player desktop para cursos em vídeo, 100% offline. App para Mac empacotado com Electron, backend em Fastify e frontend em Nuxt.
 `Electron` `Nuxt` `Vue` `Fastify` `SQLite`
 
-**[Alpes One API](https://github.com/rodrigueskaua/alpes-api)**
-API desenvolvida como desafio técnico, com foco em boas práticas de backend, infraestrutura em nuvem e automação.
-`PHP` `Cloud` `CI/CD`
-
 **[WizardDocs](https://github.com/rodrigueskaua/wizarddocs)**
 Chat interativo sobre arquivos PDF usando RAG (Retrieval-Augmented Generation) e busca semântica com Chroma.
 `Python` `RAG` `Chroma`
@@ -45,6 +41,10 @@ Chat interativo sobre arquivos PDF usando RAG (Retrieval-Augmented Generation) e
 **[NoteSync](https://github.com/rodrigueskaua/NoteSync)**
 Aplicação web de anotações com formatação rica, busca e login via Google.
 `Laravel` `MySQL` `OAuth`
+
+**[Alpes One API](https://github.com/rodrigueskaua/alpes-api)**
+API desenvolvida como desafio técnico, com foco em boas práticas de backend, infraestrutura em nuvem e automação.
+`PHP` `Cloud` `CI/CD`
 
 ---
 
