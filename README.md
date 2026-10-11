@@ -30,21 +30,17 @@ Desenvolvedor Full Stack, com foco em PHP, Laravel e JavaScript. Atualmente me a
 
 ### Projetos em destaque
 
+**[Pixima](https://github.com/rodrigueskaua/pixima)**
+Todas as imagens de qualquer site num só painel. Extensão para Chrome e Firefox que reúne fotos, fundos e SVGs da página, sem repetições nem anúncios, e converte para PNG, JPG ou WebP e baixa em ZIP em segundos. 100% privada, tudo no navegador.
+`WXT` `Vue` `TypeScript` `Tailwind`
+
 **[LocalPlay](https://github.com/rodrigueskaua/localplay-desktop)**
-Player desktop para cursos em vídeo, 100% offline. App para Mac empacotado com Electron, backend em Fastify e frontend em Nuxt.
+Transforme qualquer pasta de vídeos em uma plataforma de cursos. App para Mac com biblioteca, progresso por aula e retomada de onde parou, 100% offline: sem upload, sem servidor e sem internet.
 `Electron` `Nuxt` `Vue` `Fastify` `SQLite`
 
 **[WizardDocs](https://github.com/rodrigueskaua/wizarddocs)**
-Chat interativo sobre arquivos PDF usando RAG (Retrieval-Augmented Generation) e busca semântica com Chroma.
-`Python` `RAG` `Chroma`
-
-**[NoteSync](https://github.com/rodrigueskaua/NoteSync)**
-Aplicação web de anotações com formatação rica, busca e login via Google.
-`Laravel` `MySQL` `OAuth`
-
-**[Alpes One API](https://github.com/rodrigueskaua/alpes-api)**
-API desenvolvida como desafio técnico, com foco em boas práticas de backend, infraestrutura em nuvem e automação.
-`PHP` `Cloud` `CI/CD`
+Converse com seus PDFs e receba respostas que citam a página de origem. Busca semântica com RAG (FastAPI + ChromaDB) e OpenAI ou Gemini; se o documento não tiver a resposta, ele diz em vez de inventar.
+`Python` `FastAPI` `RAG` `ChromaDB` `Vue`
 
 ---
 
