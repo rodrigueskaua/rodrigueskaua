@@ -39,7 +39,7 @@ Transforme qualquer pasta de vídeos em uma plataforma de cursos. App para Mac c
 `Electron` `Nuxt` `Vue` `Fastify` `SQLite`
 
 **[WizardDocs](https://github.com/rodrigueskaua/wizarddocs)**
-Converse com seus PDFs e receba respostas que citam a página de origem. Busca semântica com RAG (FastAPI + ChromaDB) e OpenAI ou Gemini; se o documento não tiver a resposta, ele diz em vez de inventar.
+Converse com seus PDFs e veja de qual página veio cada resposta. Busca semântica com RAG (FastAPI e ChromaDB), usando OpenAI ou Gemini.
 `Python` `FastAPI` `RAG` `ChromaDB` `Vue`
 
 ---
