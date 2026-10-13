@@ -1,59 +1,64 @@
-### Olá, eu sou o Kauã 👋
+# Olá, eu sou o Kauã 👋
 
-Desenvolvedor Full Stack, com foco em PHP, Laravel e JavaScript. Atualmente me aprofundando em Python, automação, Machine Learning e IA aplicada. Formado em Técnico em Desenvolvimento de Sistemas pelo SENAI e cursando ADS no [Instituto Infnet](https://www.infnet.edu.br).
+Desenvolvedor Full Stack com experiência no desenvolvimento e na manutenção de sistemas web, APIs e integrações. Trabalho principalmente com PHP, Laravel, JavaScript, Vue e Nuxt, e também desenvolvo projetos com Python, automação e IA aplicada.
 
----
+Sou formado como Técnico em Desenvolvimento de Sistemas pelo SENAI e atualmente curso Análise e Desenvolvimento de Sistemas no Instituto Infnet.
 
-### Stack
+## Tecnologias
 
-**Linguagens**
-<a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge" /></a>
-<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" /></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" /></a>
+**Backend e linguagens**
 
-**Frameworks & Runtimes**
-<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" /></a>
-<a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Badge" /></a>
-<a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue Badge" /></a>
-<a href="https://nuxt.com/" target="_blank"><img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt Badge" /></a>
-<a href="https://www.electronjs.org/" target="_blank"><img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white" alt="Electron Badge" /></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge" /></a>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Infra & Ferramentas**
-<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" /></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" /></a>
-<a href="https://getfedora.org/" target="_blank"><img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Badge" /></a>
+**Frontend**
 
----
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Projetos em destaque
+**Dados e ferramentas**
 
-**[Pixima](https://github.com/rodrigueskaua/pixima)**
-Todas as imagens de qualquer site num só painel. Extensão para Chrome e Firefox que reúne fotos, fundos e SVGs da página, sem repetições nem anúncios, e converte para PNG, JPG ou WebP e baixa em ZIP em segundos. 100% privada, tudo no navegador.
-`WXT` `Vue` `TypeScript` `Tailwind`
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**[LocalPlay](https://github.com/rodrigueskaua/localplay-desktop)**
-Transforme qualquer pasta de vídeos em uma plataforma de cursos. App para Mac com biblioteca, progresso por aula e retomada de onde parou, 100% offline: sem upload, sem servidor e sem internet.
-`Electron` `Nuxt` `Vue` `Fastify` `SQLite`
+Também tenho experiência com APIs REST, integrações entre sistemas, automação de tarefas e soluções com busca semântica e RAG.
 
-**[WizardDocs](https://github.com/rodrigueskaua/wizarddocs)**
-Converse com seus PDFs e veja de qual página veio cada resposta. Busca semântica com RAG (FastAPI e ChromaDB), usando OpenAI ou Gemini.
-`Python` `FastAPI` `RAG` `ChromaDB` `Vue`
+## Projetos em destaque
 
----
+### [Pixima](https://github.com/rodrigueskaua/pixima)
+Extensão de navegador que reúne as imagens de uma página em um só painel. Permite filtrar, selecionar, copiar, converter imagens para PNG, JPG ou WebP e baixar arquivos em ZIP. O processamento acontece no próprio navegador.
+  
+**Tecnologias:** WXT, Vue, TypeScript e Tailwind CSS.
+
+### [LocalPlay](https://github.com/rodrigueskaua/localplay-desktop)
+Aplicativo para macOS que organiza vídeos locais como uma biblioteca de cursos. Permite acompanhar o progresso das aulas, retomar a reprodução e acessar materiais complementares, mantendo os arquivos na própria máquina.
+  
+**Tecnologias:** Electron, Nuxt, Vue, Fastify e SQLite.
+
+### [WizardDocs](https://github.com/rodrigueskaua/wizarddocs)
+Aplicação para consultar documentos PDF com perguntas em linguagem natural. Usa RAG e busca semântica para gerar respostas com referências às páginas de origem, com suporte a modelos da OpenAI e do Gemini.
+  
+**Tecnologias:** Python, FastAPI, ChromaDB, Vue e MongoDB.
+
+## Estatísticas do GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-pink.vercel.app/api/top-langs/?username=rodrigueskaua&theme=dark&layout=compact&hide_border=true" />
-  <img height="165em" src="https://streak-stats.demolab.com?user=rodrigueskaua&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-pink.vercel.app/api/top-langs/?username=rodrigueskaua&layout=compact&hide_border=true" alt="Linguagens mais usadas nos repositórios públicos do Kauã" />
+  <img height="165" src="https://streak-stats.demolab.com?user=rodrigueskaua&hide_border=true" alt="Sequência de contribuições no GitHub" />
 </div>
 
----
+## Contato
 
-### Contato
-
-<p>
-  <a href="mailto:kauarodrigues.fn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kauarodrigues.fn@gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/kau%C3%A3-rodrigues-7a0980213/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kau%C3%A3%20Rodrigues-blue?style=flat-square&logo=linkedin"></a>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/kau%C3%A3-rodrigues-7a0980213/)
+- [GitHub](https://github.com/rodrigueskaua)
+- [E-mail](mailto:kauarodrigues.fn@gmail.com)
