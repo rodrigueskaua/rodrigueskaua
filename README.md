@@ -31,15 +31,15 @@ Desenvolvedor Full Stack, com foco em PHP, Laravel e JavaScript. Atualmente me a
 ### Projetos em destaque
 
 **[Pixima](https://github.com/rodrigueskaua/pixima)**
-Todas as imagens de qualquer site num só painel. Extensão para Chrome e Firefox que reúne fotos, fundos e SVGs da página, sem repetições nem anúncios, e converte para PNG, JPG ou WebP e baixa em ZIP em segundos. 100% privada, tudo no navegador.
+Extensão para navegadores que escaneia uma página web e exibe todas as imagens encontradas em um único painel. Permite filtrar, selecionar, visualizar, converter imagens para PNG, JPG ou WebP, copiar links e baixar várias imagens em um único arquivo ZIP. Todo o processamento é feito localmente, sem enviar imagens para servidores externos.
 `WXT` `Vue` `TypeScript` `Tailwind`
 
 **[LocalPlay](https://github.com/rodrigueskaua/localplay-desktop)**
-Transforme qualquer pasta de vídeos em uma plataforma de cursos. App para Mac com biblioteca, progresso por aula e retomada de onde parou, 100% offline: sem upload, sem servidor e sem internet.
+App para macOS que transforma pastas de vídeos em uma biblioteca de cursos e treinamentos. Permite acompanhar o progresso das aulas, retomar a reprodução de onde parou, marcar aulas como concluídas e acessar materiais complementares. Funciona offline, mantendo os dados e arquivos localmente.
 `Electron` `Nuxt` `Vue` `Fastify` `SQLite`
 
 **[WizardDocs](https://github.com/rodrigueskaua/wizarddocs)**
-Converse com seus PDFs e veja de qual página veio cada resposta. Busca semântica com RAG (FastAPI e ChromaDB), usando OpenAI ou Gemini.
+Aplicação que permite consultar documentos PDF por meio de perguntas em linguagem natural. Utiliza RAG e busca semântica para gerar respostas com referências às páginas dos documentos, com suporte a modelos da OpenAI e do Gemini.
 `Python` `FastAPI` `RAG` `ChromaDB` `Vue`
 
 ---
