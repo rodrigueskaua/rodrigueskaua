@@ -2,6 +2,8 @@
 
 Desenvolvedor Full Stack, com foco em PHP, Laravel e JavaScript. Atualmente me aprofundando em Python, automação, Machine Learning e IA aplicada. Formado em Técnico em Desenvolvimento de Sistemas pelo SENAI e cursando ADS no [Instituto Infnet](https://www.infnet.edu.br).
 
+**Portfólio:** [rodrigueskaua.github.io/portfolio-site](https://rodrigueskaua.github.io/portfolio-site/)
+
 ---
 
 ### Stack
@@ -54,6 +56,7 @@ Aplicação que permite consultar documentos PDF por meio de perguntas em lingua
 ### Contato
 
 <p>
+  <a href="https://rodrigueskaua.github.io/portfolio-site/"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-rodrigueskaua.github.io-blue?style=flat-square&logo=githubpages"></a>
   <a href="mailto:kauarodrigues.fn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kauarodrigues.fn@gmail.com-blue?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/kau%C3%A3-rodrigues-7a0980213/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kau%C3%A3%20Rodrigues-blue?style=flat-square&logo=linkedin"></a>
 </p>
